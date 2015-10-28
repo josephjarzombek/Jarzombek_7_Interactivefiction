@@ -1,0 +1,4 @@
+Is your guessing game a game? No I never even finished the base code you had up for us to copy.
+
+What would make it better? Having the code actually run. And then being able to replay the game easily.
+
