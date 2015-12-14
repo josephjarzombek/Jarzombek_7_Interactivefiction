@@ -46,7 +46,7 @@ public class Jarzombek_7_Interactivefiction {
                 //#forthelose
                 + ""
                 + " Make America Great Again.");
-        deeznuts();
+        mainish();
     }
 
     static void speaksmind() {
@@ -68,7 +68,7 @@ public class Jarzombek_7_Interactivefiction {
         weeks = weeks - 1;
         System.out.println(weeks + " weeks util the election.");
         speaking = false;
-        deeznuts();
+        mainish();
     }
 
     static void thevisit() {
@@ -90,7 +90,7 @@ public class Jarzombek_7_Interactivefiction {
                System.out.println("Publicity is key to the election.");
            }
            weeks = weeks - 1;
-           deeznuts();
+           mainish();
     }
 
     static void sweethome() {
@@ -101,7 +101,7 @@ public class Jarzombek_7_Interactivefiction {
             + "Your pollstandings are now " + pollstandings + ". " + weeks + " left till election.");
         really=0;
         chilling = false;
-        deeznuts();
+        mainish();
     }
 
     static void turn() {
@@ -124,7 +124,7 @@ public class Jarzombek_7_Interactivefiction {
         }
     }
 
-    static void deeznuts() {
+    static void mainish() {
         //#method5()
         while (speaking == false & being == false & chilling == false) {
             turn();
